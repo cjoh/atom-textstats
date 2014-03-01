@@ -1,10 +1,12 @@
 {
   "name": "textstats",
   "main": "./lib/textstats",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "private": false,
   "description": "A quick way to check your word count and readability.",
-  "activationEvents": ["textstats:toggle"],
+  "activationEvents": [
+    "textstats:toggle"
+  ],
   "repository": "https://github.com/cjoh/atom-textstats",
   "license": "MIT",
   "engines": {
